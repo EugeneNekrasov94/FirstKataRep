@@ -7,6 +7,7 @@ import java.util.function.Consumer;
 public class Main {
     public static void main(String[] args) {
         // Random variables
+        System.out.println("AAA");
         String randomFrom = "..."; // Некоторая случайная строка. Можете выбрать ее самостоятельно.
         String randomTo = "...";  // Некоторая случайная строка. Можете выбрать ее самостоятельно.
         int randomSalary = 100;  // Некоторое случайное целое положительное число. Можете выбрать его самостоятельно.
